@@ -23,5 +23,16 @@ Collaboration and pull requests are welcome.
 
 May all beings be happy.  May all beings be free.
 
+Contents:
+
+1.  _The Fire Kasina_.  A pdf copy of the book by Shannon Stein and
+Daniel Ingram.
+
+2.  "The Stages of Meditation."  A brief summary of the stages of
+meditation later outlined in the book _The Mind Illuminated_.
+
+
+
+
 
 
