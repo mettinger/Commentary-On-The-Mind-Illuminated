@@ -1,6 +1,6 @@
 # Commentary-On-The-Mind-Illuminated
 This repository is intended to be a summary of, guide to, and
-commentary on the book "The Mind Illuminated" by Culadasa (John Yates,
+commentary on the book _The Mind Illuminated_ by Culadasa (John Yates,
 Ph.D.), Matthew Immergut, Ph.D. and Jeremy Graves.
 
 We also include commentary regarding using the Fire Kasina as the
@@ -16,7 +16,8 @@ this framework.
 
 The contents of this repository are in no way to be interpreted as
 approved or endorsed by the aforementioned authors.  All errors and
-misinterpretations are strictly the fault of the author(s).
+misinterpretations are strictly the fault of the collaborators on this
+repository.
 
 Collaboration and pull requests are welcome.
 
