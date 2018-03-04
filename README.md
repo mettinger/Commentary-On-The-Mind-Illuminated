@@ -29,7 +29,7 @@ Contents:
 1.  _The Fire Kasina_.  A pdf copy of the book by Shannon Stein and
 Daniel Ingram.
 
-2.  "The Stages of Meditation."  A brief summary of the stages of 
+2.  "The Stages of Meditation."  Culadasa's brief summary of the stages of 
 meditation later outlined in the book _The Mind Illuminated_.
 
 
