@@ -26,7 +26,7 @@ May all beings be happy.  May all beings be free.
 
 Contents:
 
-1. [ _The Fire Kasina_] (./blob/master/the-fire-kasina.pdf).  A pdf copy of the book by Shannon Stein and
+1. [ _The Fire Kasina_] (./the-fire-kasina.pdf).  A pdf copy of the book by Shannon Stein and
 Daniel Ingram.
 
 2.  "The Stages of Meditation."  Culadasa's brief summary of the stages of 
