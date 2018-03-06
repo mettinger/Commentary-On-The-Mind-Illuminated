@@ -29,7 +29,7 @@ Contents:
 1. [ "The Stages of Meditation."](./LightOnMeditationHandout.pdf)  Culadasa's brief summary of the stages of 
 meditation later outlined in the book _The Mind Illuminated_.
 
-2. [" "](./TMI_notes.txt).  Notes on the TMI framework.
+2. ["Initial Notes on _The Mind Illuminated "](./TMI_notes.txt).  Notes on the TMI framework.
 
 3. [ _The Fire Kasina_](./the-fire-kasina.pdf).  A pdf copy of the book by Shannon Stein and
 Daniel Ingram.
