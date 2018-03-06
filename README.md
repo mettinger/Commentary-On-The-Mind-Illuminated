@@ -5,8 +5,7 @@ Ph.D.), Matthew Immergut, Ph.D. and Jeremy Graves.
 
 We also include commentary regarding integrating the framework
 outlined in _The Mind Illuminated_ and the Fire Kasina as the
-meditation object rather than the breath.  The breath is the example object
-used throughout the book.
+meditation object rather than the breath.
 
 The motivation for this
 repository is a deep appreciation for the capability of the detailed,
