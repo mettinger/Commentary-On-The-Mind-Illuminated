@@ -76,7 +76,7 @@ Seventh Interlude - The Nature of Mind and Consciousness:
 *****
 
 
- include::fourthInterlude_1.png
+ image::fourthInterlude_1.png[]
 
 
 
