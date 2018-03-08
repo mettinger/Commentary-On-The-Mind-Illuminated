@@ -26,12 +26,12 @@ May all beings be happy.  May all beings be free.
 Contents:
 
 
-1. [ "The Stages of Meditation."](./LightOnMeditationHandout.pdf)  Culadasa's brief summary of the stages of 
+1. [ "The Stages of Meditation."](/pdf/LightOnMeditationHandout.pdf)  Culadasa's brief summary of the stages of 
 meditation later outlined in the book _The Mind Illuminated_.
 
 2. ["Initial Notes on _The Mind Illuminated_ "](./TMI_notes.txt).  Notes on the TMI framework.
 
-3. [ _The Fire Kasina_](./the-fire-kasina.pdf).  A pdf copy of the book by Shannon Stein and
+3. [ _The Fire Kasina_](/pdf/the-fire-kasina.pdf).  A pdf copy of the book by Shannon Stein and
 Daniel Ingram.
 
 4.  ["Fire Kasina Notes"](./fire_kasina_notes.txt).  Notes on using
