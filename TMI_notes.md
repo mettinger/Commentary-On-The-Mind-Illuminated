@@ -57,6 +57,9 @@ Mastery: Object remains in foreground.  Object not subject to
 hypnogotic distortion.
 
 #### Fourth Interlude - The Moments of Consciousness Model:
+<img
+src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/fourthInterlude_1.png"
+width="200" height="200">
 
 ![mind moments](/images/fourthInterlude_1.png) <!-- .element style="height:250; width:250" -->
 
