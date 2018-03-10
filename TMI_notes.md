@@ -105,17 +105,38 @@ peripheral awareness.
 * Each perceiving moment has an active component of **conscious
 intention**.
 
-* Each moment  contains *vital energy*, perceiving moments more so
+* Each moment  contains **vital energy**, perceiving moments more so
 than non-perceiving moments.
 
 * The greater density of non-perceiving moments, the greater the
   subjective experience of dullness.
 
+* **Subtle distractions** correspond to a local section of the mind
+  moment sequence
+  where there is a significant-yet-minority density of moments of attention devoted
+  to objects other than the meditation object.
 
+*  **Gross distractions** correspond to a local section of the mind
+  moment sequence
+  where there is a majority density of moments of attention devoted
+  to objects other than the meditation object.
+
+*  **Forgetting** corresponds to all or nearly all attention mind
+moments being devoted to objects other than the meditation object.
+
+*  It is important to mention that the level of distraction is
+independent of the density of moments of **awareness**.
+
+* The following image from the text illustrates the properties of mind
+moments.  Notice each of the moments in the illustration is a
+perceiving moment.
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/fourthInterlude_1.png"
 width="700" height="700">
+
+*  Increasing mindfulness corresponds to increasing the density of
+   perceiving mind moments.
 
 ### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
 
