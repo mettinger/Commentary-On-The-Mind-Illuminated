@@ -26,6 +26,17 @@ awareness.
   and **mindfulness** (i.e. an appropriate balance of attention and
   peripheral awareness).
 
+*  There are three forms of spontaneous attention movement: scanning,
+   captured, and alternating.  Alternating attention permits the
+   illusion of simultaneous attention to multiple objects.
+
+*  Attention to attention is impossible but awareness of attention is
+possible (and desireable).
+
+*  When directed introspectively, attention takes a snapshot from
+   awareness from the previous moment.  However introspective
+   awareness apprehends the state of mind in the present.
+
 ### Stage One - Establishing a Practice:
 
 Summary:
