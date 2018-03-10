@@ -1,13 +1,11 @@
 
-## Overview of the Ten Stages:
+#### Overview of the Ten Stages:
 
-*****
 
-## First Interlude - Conscious Experience and the Objectives of Meditation:
+#### First Interlude - Conscious Experience and the Objectives of Meditation:
 
-*****
 
-Stage One - Establishing a Practice:
+#### Stage One - Establishing a Practice:
 
 Summary:
 
