@@ -109,7 +109,9 @@ intention**.
 than non-perceiving moments.
 
 * The greater density of non-perceiving moments, the greater the
-  subjective experience of dullness.
+subjective experience of dullness.
+
+INSERT IMAGE HERE.
 
 * **Subtle distractions** correspond to a local section of the mind
   moment sequence
@@ -127,7 +129,9 @@ moments being devoted to objects other than the meditation object.
 *  It is important to mention that the level of distraction is
 independent of the density of moments of **awareness**.
 
-* The following image from the text illustrates the properties of mind
+INSERT IMAGE HERE.
+
+* The following image from the text illustrates the various attributes of mind
 moments.  Notice each of the moments in the illustration is a
 perceiving moment.
 
@@ -135,8 +139,14 @@ perceiving moment.
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/fourthInterlude_1.png"
 width="600" height="600">
 
-*  Increasing mindfulness corresponds to increasing the density of
-   perceiving mind moments..
+*  In this model, increasing mindfulness corresponds to increasing the density of
+perceiving mind moments.
+
+Commentary:
+
+1.  Tuple formulation of mind moments.
+
+2.  Mathematical definition of stable/progressive subtle dullness.
 
 ### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
 
