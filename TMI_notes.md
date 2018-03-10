@@ -133,7 +133,7 @@ perceiving moment.
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/fourthInterlude_1.png"
-width="700" height="700">
+width="600" height="600">
 
 *  Increasing mindfulness corresponds to increasing the density of
    perceiving mind moments.
