@@ -59,7 +59,7 @@ hypnogotic distortion.
 #### Fourth Interlude - The Moments of Consciousness Model:
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/fourthInterlude_1.png"
-width="200" height="200">
+width="500" height="500">
 
 ![mind moments](/images/fourthInterlude_1.png) <!-- .element style="height:250; width:250" -->
 
