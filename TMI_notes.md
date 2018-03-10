@@ -37,14 +37,12 @@ Commentary and Questions:
 
 #### Stage Two - Interrupted Attention and Overcoming Mind-Wandering:
 
-#### Stage Three - Extended Continuity of Attention and Overcoming:
-Forgetting
+#### Stage Three - Extended Continuity of Attention and Overcoming Forgetting:
 
 #### Third Interlude - How Mindfulness Works:
 
 
-#### Stage Four - Continuous Attention and Overcoming Gross Distraction and
-Strong Dullness:
+#### Stage Four - Continuous Attention and Overcoming Gross Distraction and Strong Dullness:
 
 #### Fourth Interlude - The Moments of Consciousness Model:
 
