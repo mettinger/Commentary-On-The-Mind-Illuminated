@@ -33,47 +33,32 @@ Commentary and Questions:
 1.  What would be a good transition for fire kasina?
 2.  Count up to 8 then back down. (Because 8 is a power of 2!)
 
-*****
+#### Second Interlude - The Hindrances and Problems:
 
-Second Interlude - The Hindrances and Problems:
+#### Stage Two - Interrupted Attention and Overcoming Mind-Wandering:
 
-*****
-
-Stage Two - Interrupted Attention and Overcoming Mind-Wandering:
-
-*****
-
-Stage Three - Extended Continuity of Attention and Overcoming:
+#### Stage Three - Extended Continuity of Attention and Overcoming:
 Forgetting
 
-*****
+#### Third Interlude - How Mindfulness Works:
 
-Third Interlude - How Mindfulness Works:
 
-*****
-
-Stage Four - Continuous Attention and Overcoming Gross Distraction and
+#### Stage Four - Continuous Attention and Overcoming Gross Distraction and
 Strong Dullness:
 
-*****
-
-Fourth Interlude - The Moments of Consciousness Model:
-
-*****
-
-Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
-
-*****
-
-Fifth Interlude - The Mind-System:
-
-*****
-
-Seventh Interlude - The Nature of Mind and Consciousness:
-
-*****
+#### Fourth Interlude - The Moments of Consciousness Model:
 
 ![mind moments](/images/fourthInterlude_1.png)
+
+
+#### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
+
+
+#### Fifth Interlude - The Mind-System:
+
+#### Seventh Interlude - The Nature of Mind and Consciousness:
+
+
 
 
 
