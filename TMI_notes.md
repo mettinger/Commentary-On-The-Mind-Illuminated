@@ -1,6 +1,13 @@
 
 #### Overview of the Ten Stages:
 
+1. Establishing a practice
+2.  Interrupted attention and overcoming mind-wandering
+3. extended Attention and overcoming forgetting
+Milestone One: Continuous attention to the meditation object
+4.  Overcoming gross distraction and strong dullness
+5.  Overcoming subtle dullness and increasing mindfulness
+MileStone Two: Sustained exclusive focus of attention
 
 #### First Interlude - Conscious Experience and the Objectives of Meditation:
 
@@ -48,10 +55,12 @@ Summary:
 
 Goal: Overcome gross distraction and strong dullness.
 
-Obstacles: Discomfort, intellectual insight, strong emotions.
+Obstacles: Physical discomfort, emotional discomfort, intellectual insight.
 
-Skills: Developing introspective awareness as warning for subtle
-distraction becoming gross distraction and same for dullness.
+Skills: Developing continuous
+introspective awareness which acts as an early warning detector for subtle
+distraction becoming gross distraction and subtle dullness becoming
+strong dullness.
 
 Mastery: Object remains in foreground.  Object not subject to
 hypnogotic distortion.
