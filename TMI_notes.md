@@ -1,13 +1,21 @@
 
 #### Overview of the Ten Stages:
 
-1. Establishing a practice
+1.  Establishing a practice
 2.  Interrupted attention and overcoming mind-wandering
-3. extended Attention and overcoming forgetting
+3.  Extended attention and overcoming forgetting
 ##### Milestone One: Continuous attention to the meditation object
 4.  Overcoming gross distraction and strong dullness
 5.  Overcoming subtle dullness and increasing mindfulness
-MileStone Two: Sustained exclusive focus of attention
+6.  Subduing subtle distraction
+##### Milestone Two: Sustained exclusive focus of attention
+7.  Exclusive attention and unifying the mind
+##### Milestone Three: Effortless stability of attention
+8.  Mental pliancy and pacifying the senses
+9.  Mental and physical pliancy and calming the intensity of
+meditative joy
+10.  Tranquility and equinimity
+##### Persistence of the mental qualities of an adept
 
 #### First Interlude - Conscious Experience and the Objectives of Meditation:
 
