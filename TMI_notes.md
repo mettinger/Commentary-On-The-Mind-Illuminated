@@ -39,8 +39,6 @@ possible (and desireable).
 
 ### Stage One - Establishing a Practice:
 
-Summary:
-
 Six Point Preparation
 
 1.  Fire up motivation
@@ -77,8 +75,6 @@ Commentary and Questions:
 
 ### Stage Four - Continuous Attention and Overcoming Gross Distraction and Strong Dullness:
 
-Summary:
-
 Goal: Overcome gross distraction and strong dullness.
 
 Obstacles: Physical discomfort, emotional discomfort, intellectual insight.
@@ -92,6 +88,31 @@ Mastery: Object remains in foreground.  Object not subject to
 hypnogotic distortion.
 
 ### Fourth Interlude - The Moments of Consciousness Model:
+
+*  In the "moments of consciousnes model", experience is composed of a
+discrete sequence of moments.
+
+* Each moment is either perceiving or non-perceiving.  Non-perceiving
+  moments have no further structure.  Perceiving moments have detailed
+  internal structure described in the following bullet points.
+
+*  Each perceiving moment is one of seven types: sight, sound, smell, taste,
+touch, mind, or binding.
+
+*  Each perceiving moment is either a moment of attention or a moment of
+peripheral awareness.
+
+* Each perceiving moment has an active component of **conscious
+intention**.
+
+* Each moment  contains *vital energy*, perceiving moments more so
+than non-perceiving moments.
+
+* The greater density of non-perceiving moments, the greater the
+  subjective experience of dullness.
+
+
+
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/fourthInterlude_1.png"
 width="700" height="700">
