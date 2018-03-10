@@ -136,7 +136,7 @@ src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master
 width="600" height="600">
 
 *  Increasing mindfulness corresponds to increasing the density of
-   perceiving mind moments.
+   perceiving mind moments..
 
 ### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
 
