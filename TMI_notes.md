@@ -1,5 +1,5 @@
 
-#### Overview of the Ten Stages:
+### Overview of the Ten Stages:
 
 1.  Establishing a practice
 2.  Interrupted attention and overcoming mind-wandering
@@ -15,12 +15,12 @@
 9.  Mental and physical pliancy and calming the intensity of
 meditative joy
 10.  Tranquility and equinimity
-##### Persistence of the mental qualities of an adept
+##### Milestone Four: Persistence of the mental qualities of an adept
 
-#### First Interlude - Conscious Experience and the Objectives of Meditation:
+### First Interlude - Conscious Experience and the Objectives of Meditation:
 
 
-#### Stage One - Establishing a Practice:
+### Stage One - Establishing a Practice:
 
 Summary:
 
