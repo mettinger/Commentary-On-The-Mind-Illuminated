@@ -19,6 +19,10 @@ meditative joy
 
 ### First Interlude - Conscious Experience and the Objectives of Meditation:
 
+* The two forms of consciousness are attention and peripheral
+awareness.
+
+* test
 
 ### Stage One - Establishing a Practice:
 
@@ -49,16 +53,16 @@ Commentary and Questions:
 2.  Count up to 8 then back down. (Because 8, as a power of 2, is
     holy! ;))
 
-#### Second Interlude - The Hindrances and Problems:
+### Second Interlude - The Hindrances and Problems:
 
-#### Stage Two - Interrupted Attention and Overcoming Mind-Wandering:
+### Stage Two - Interrupted Attention and Overcoming Mind-Wandering:
 
-#### Stage Three - Extended Continuity of Attention and Overcoming Forgetting:
+### Stage Three - Extended Continuity of Attention and Overcoming Forgetting:
 
-#### Third Interlude - How Mindfulness Works:
+### Third Interlude - How Mindfulness Works:
 
 
-#### Stage Four - Continuous Attention and Overcoming Gross Distraction and Strong Dullness:
+### Stage Four - Continuous Attention and Overcoming Gross Distraction and Strong Dullness:
 
 Summary:
 
@@ -74,17 +78,17 @@ strong dullness.
 Mastery: Object remains in foreground.  Object not subject to
 hypnogotic distortion.
 
-#### Fourth Interlude - The Moments of Consciousness Model:
+### Fourth Interlude - The Moments of Consciousness Model:
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/fourthInterlude_1.png"
 width="700" height="700">
 
-#### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
+### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
 
 
-#### Fifth Interlude - The Mind-System:
+### Fifth Interlude - The Mind-System:
 
-#### Seventh Interlude - The Nature of Mind and Consciousness:
+### Seventh Interlude - The Nature of Mind and Consciousness:
 
 
 
