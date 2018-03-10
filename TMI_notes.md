@@ -58,7 +58,7 @@ hypnogotic distortion.
 
 #### Fourth Interlude - The Moments of Consciousness Model:
 
-![mind moments](/images/fourthInterlude_1.png = 250 x 250)
+![mind moments](/images/fourthInterlude_1.png) <!-- .element height="50%" width="50%" -->
 
 
 #### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
