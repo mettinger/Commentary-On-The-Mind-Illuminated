@@ -46,10 +46,13 @@ Commentary and Questions:
 
 Summary:
 
-Goal: Overcome gross distraction and strong dullness
+Goal: Overcome gross distraction and strong dullness.
+
 Obstacles: Discomfort, intellectual insight, strong emotions.
+
 Skills: Developing introspective awareness as warning for subtle
 distraction becoming gross distraction and same for dullness.
+
 Mastery: Object remains in foreground.  Object not subject to
 hypnogotic distortion.
 
