@@ -19,10 +19,12 @@ meditative joy
 
 ### First Interlude - Conscious Experience and the Objectives of Meditation:
 
-* The two forms of consciousness are attention and peripheral
+* The two forms of consciousness are **attention** and **peripheral**
 awareness.
 
-* test
+* The two objectives of meditation practice are **stable attention**
+  and **mindfulness** (i.e. an appropriate balance of attention and
+  peripheral awareness).
 
 ### Stage One - Establishing a Practice:
 
