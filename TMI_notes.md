@@ -98,6 +98,12 @@ distraction without negative judgement and re-engaging with the object.
    for waking up the mind, e.g. standing meditation, a deep breath,
    systemic muscle contractions, or a splash of cold water.
 
+Commentary:
+
+1.  When using fire kasina, one technique to help overcome gross
+    distraction is "rating" the quality of the afterimage (I use a
+    scale of 0 - 3) as it fades, one rating at the end of each breath.
+
 ### Fourth Interlude - The Moments of Consciousness Model:
 
 *  In the "moments of consciousnes model", experience is composed of a
