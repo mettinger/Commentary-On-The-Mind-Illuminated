@@ -87,6 +87,17 @@ strong dullness.
 Mastery: Object remains in foreground.  Object not subject to
 hypnogotic distortion.
 
+*  Overcome *present* gross distraction by letting go of the
+distraction without negative judgement and re-engaging with the object.
+
+*  Overcome *potential* gross distraction, i.e. present subtle
+   distraction, by first detecting it using introspective awareness
+   and then tightening up focus on the object.
+
+*  Overcome strong dullness by applying whatever antidote is effective
+   for waking up the mind, e.g. standing meditation, a deep breath,
+   systemic muscle contractions, or a splash of cold water.
+
 ### Fourth Interlude - The Moments of Consciousness Model:
 
 *  In the "moments of consciousnes model", experience is composed of a
@@ -144,9 +155,14 @@ perceiving mind moments.
 
 Commentary:
 
-1.  Tuple formulation of mind moments.
+1.  Mind moments can be formalized as an appropriate n-tuple.
 
-2.  Mathematical definition of stable/progressive subtle dullness.
+2.  It seems the dichotomy of stable and progressive subtle dullness can be
+    mathematically refined and expanded.  Recall that dullness is measured by the
+    density of non-percieving moments.  The time derivative of this
+    density measures the *velocity* of dullness (subtle or
+    otherwise).  Stable dullness corresponds to a derivative of zero
+    and progressive dullness corresonds to a positive derivative.
 
 ### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
 
