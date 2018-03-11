@@ -166,6 +166,22 @@ Commentary:
 
 ### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
 
+Goal: Overcome subtle dullness and increase power of mindfulness.
+
+Obstacles: Subtle dullness is difficult to recognize, creates an
+illusion of stable attention and is seductively pleasant.
+
+Skills: Increased cultivation of continuous introspective awareness.
+Body scanning for increased mindfulness.
+
+Mastery: Ability to sustain or increase the power of mindfulness
+during each meditation session.
+
+*  **Intention** to detect subtle dullness increases introspective
+awareness.
+
+* Body scanning technique: 
+
 
 ### Fifth Interlude - The Mind-System:
 
