@@ -14,7 +14,7 @@
 8.  Mental pliancy and pacifying the senses
 9.  Mental and physical pliancy and calming the intensity of
 meditative joy
-10.  Tranquility and equinimity
+10.  Tranquility and equanimity
 ##### Milestone Four: Persistence of the mental qualities of an adept
 
 ### First Interlude - Conscious Experience and the Objectives of Meditation:
@@ -31,7 +31,7 @@ awareness.
    illusion of simultaneous attention to multiple objects.
 
 *  Attention to attention is impossible but awareness of attention is
-possible (and desireable).
+possible (and desirable).
 
 *  When directed introspectively, attention takes a snapshot from
    awareness from the previous moment.  However introspective
@@ -41,7 +41,7 @@ Commentary:
 
 1.  In TMI, attention and peripheral awareness are presented as a fundamental
 dichotomy.  Is experience really structured this discretely?  Can
-attention and awareness be seen to inhabit points on a continuum?
+attention and awareness be seen as inhabiting points on a continuum?
 
 ### Stage One - Establishing a Practice:
 
@@ -91,7 +91,7 @@ distraction becoming gross distraction and subtle dullness becoming
 strong dullness.
 
 Mastery: Object remains in foreground.  Object not subject to
-hypnogotic distortion.
+hypnogogic distortion.
 
 *  Overcome *present* gross distraction by letting go of the
 distraction without negative judgement and re-engaging with the object.
@@ -112,7 +112,7 @@ Commentary:
 
 ### Fourth Interlude - The Moments of Consciousness Model:
 
-*  In the "moments of consciousnes model", experience is composed of a
+*  In the "moments of consciousness model", experience is composed of a
 discrete sequence of moments.
 
 * Each moment is either perceiving or non-perceiving.  Non-perceiving
@@ -171,10 +171,10 @@ Commentary:
 
 2.  It seems the dichotomy of stable and progressive subtle dullness can be
     mathematically refined and expanded.  Recall that dullness is measured by the
-    density of non-percieving moments.  The time derivative of this
+    density of non-perceiving moments.  The time derivative of this
     density measures the *velocity* of dullness (subtle or
     otherwise).  Stable dullness corresponds to a derivative of zero
-    and progressive dullness corresonds to a positive derivative.
+    and progressive dullness corresponds to a positive derivative.
 
 ### Stage Five - Overcoming Subtle Dullness and Increasing Mindfulness:
 
