@@ -153,7 +153,9 @@ than non-perceiving moments.
 * The greater density of non-perceiving moments, the greater the
 subjective experience of dullness.
 
-INSERT IMAGE HERE.
+<img
+src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/dullness.png"
+width="600" height="600">
 
 * **Subtle distractions** correspond to a local section of the mind
   moment sequence
@@ -171,7 +173,9 @@ moments being devoted to objects other than the meditation object.
 *  It is important to mention that the level of distraction is
 independent of the density of moments of **awareness**.
 
-INSERT IMAGE HERE.
+<img
+src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/distraction.png"
+width="600" height="600">
 
 * The following image from the text illustrates the various attributes of mind
 moments.  Notice each of the moments in the illustration is a
