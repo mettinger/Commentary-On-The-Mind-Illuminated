@@ -197,7 +197,24 @@ awareness.
 
 ### Fifth Interlude - The Mind-System:
 
+### Stage Six - Subduing Subtle Distraction:
+
+### Sixth Interlude - The Stages of an Adept:
+
+### Stage Seven - Exclusive Attention and Unifying the Mind:
+
 ### Seventh Interlude - The Nature of Mind and Consciousness:
+
+### Stage Eight - Mental Pliancy and Pacifying the Sense:
+
+### Stage Nine - Mental and Physical Pliancy and Calming the Intensity
+    of Meditative Joy
+
+### Stage Ten - Tranquility and Equanimity
+
+
+
+
 
 
 
