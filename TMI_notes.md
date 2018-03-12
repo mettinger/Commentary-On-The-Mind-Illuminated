@@ -222,7 +222,7 @@ awareness.
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude_5.png"
-width="600" height="600">
+width="400" height="400">
 
 ### Stage Six - Subduing Subtle Distraction:
 
@@ -230,19 +230,19 @@ width="600" height="600">
 
 ### Stage Seven - Exclusive Attention and Unifying the Mind:
 
+### Seventh Interlude - The Nature of Mind and Consciousness:
+
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_1.png"
-width="600" height="600">
+width="400" height="400">
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_2.png"
-width="600" height="600">
+width="400" height="400">
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_3.png"
-width="600" height="300">
-
-### Seventh Interlude - The Nature of Mind and Consciousness:
+width="400" height="200">
 
 ### Stage Eight - Mental Pliancy and Pacifying the Sense:
 
