@@ -207,8 +207,7 @@ awareness.
 
 ### Stage Eight - Mental Pliancy and Pacifying the Sense:
 
-### Stage Nine - Mental and Physical Pliancy and Calming the Intensity
-    of Meditative Joy
+### Stage Nine - Mental and Physical Pliancy and Calming the Intensity of Meditative Joy
 
 ### Stage Ten - Tranquility and Equanimity
 
