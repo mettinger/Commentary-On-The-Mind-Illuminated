@@ -80,7 +80,17 @@ Commentary and Questions:
 4.  Remorse/Worry
 5.  Doubt
 
-*  The Seven Problems (and Antidotes): 
+*  The Seven Problems (and Antidotes):
+
+1.  Procrastination (recall benefits)
+2.  Distractions (Stages 2 - 6)
+3.  Impatience (observe dispassionately)
+4.  Monkey Mind (ground in the body)
+5.  Self-doubt (keep motivation strong and drop comparison)
+6.  Dullness (Stages 3 - 5)
+7.  Physical Discomfort (assume most comfortable position then observe dispassionately.  repeat as necessary)
+
+
 ### Stage Two - Interrupted Attention and Overcoming Mind-Wandering:
 
 ### Stage Three - Extended Continuity of Attention and Overcoming Forgetting:
