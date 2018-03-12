@@ -155,7 +155,7 @@ subjective experience of dullness.
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/dullness.png"
-width="600" height="600">
+width="400" height="400">
 
 * **Subtle distractions** correspond to a local section of the mind
   moment sequence
@@ -175,7 +175,7 @@ independent of the density of moments of **awareness**.
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/forgetting.png"
-width="600" height="600">
+width="400" height="400">
 
 * The following image from the text illustrates the various attributes of mind
 moments.  Notice each of the mind moments in this particular illustration is a
