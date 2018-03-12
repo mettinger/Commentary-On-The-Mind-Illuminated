@@ -37,7 +37,7 @@ possible (and desirable).
    awareness from the previous moment.  However introspective
    awareness apprehends the state of mind in the present.
 
-Commentary:
+**Commentary**:
 
 1.  In TMI, attention and peripheral awareness are presented as a fundamental
 dichotomy.  Is experience really structured this discretely?  Can
@@ -64,7 +64,7 @@ sensations.
 
 Initially, count breaths.  Count at the end of the in-breath.
 
-Commentary and Questions:
+**Commentary**:
 
 1.  What would be a good transition for fire kasina?
 2.  Count up to 8 then back down. (Because 8, as a power of 2, is
@@ -123,7 +123,7 @@ distraction without negative judgement and re-engaging with the object.
    for waking up the mind, e.g. standing meditation, a deep breath,
    systemic muscle contractions, or a splash of cold water.
 
-Commentary:
+**Commentar**y:
 
 1.  When using fire kasina, one technique to help overcome gross
     distraction is "rating" the quality of the afterimage (I use a
