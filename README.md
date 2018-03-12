@@ -7,6 +7,9 @@ We also include commentary regarding integrating the framework
 outlined in _The Mind Illuminated_ and the Fire Kasina as the
 meditation object rather than the breath.
 
+All illustrations are from _The Mind Illuminated_ and copyrighted by
+the authors.
+
 The motivation for this
 repository is a deep appreciation for the capability of the detailed,
 structured path described in _The Mind Illuminated_ to facilitate fundamental

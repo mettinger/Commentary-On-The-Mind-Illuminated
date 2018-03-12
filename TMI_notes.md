@@ -220,11 +220,27 @@ awareness.
 
 ### Fifth Interlude - The Mind-System:
 
+<img
+src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude_5.png"
+width="600" height="600">
+
 ### Stage Six - Subduing Subtle Distraction:
 
 ### Sixth Interlude - The Stages of an Adept:
 
 ### Stage Seven - Exclusive Attention and Unifying the Mind:
+
+<img
+src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_1.png"
+width="600" height="600">
+
+<img
+src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_2.png"
+width="600" height="600">
+
+<img
+src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_3.png"
+width="600" height="600">
 
 ### Seventh Interlude - The Nature of Mind and Consciousness:
 
