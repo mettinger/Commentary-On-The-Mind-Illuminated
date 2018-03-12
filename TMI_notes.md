@@ -37,6 +37,12 @@ possible (and desireable).
    awareness from the previous moment.  However introspective
    awareness apprehends the state of mind in the present.
 
+Commentary:
+
+1.  In TMI, attentiona and peripheral awareness are presented as a fundamental
+dichotomy.  Is experience really structured this discretely?  Can
+attention and awareness be seen to inhabit points on a continuum?
+
 ### Stage One - Establishing a Practice:
 
 Six Point Preparation
