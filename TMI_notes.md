@@ -174,7 +174,7 @@ moments being devoted to objects other than the meditation object.
 independent of the density of moments of **awareness**.
 
 <img
-src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/distraction.png"
+src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/forgetting.png"
 width="600" height="600">
 
 * The following image from the text illustrates the various attributes of mind
