@@ -240,7 +240,7 @@ width="600" height="600">
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_3.png"
-width="600" height="600">
+width="600" height="300">
 
 ### Seventh Interlude - The Nature of Mind and Consciousness:
 
