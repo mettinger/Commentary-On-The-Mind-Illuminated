@@ -39,7 +39,7 @@ possible (and desireable).
 
 Commentary:
 
-1.  In TMI, attentiona and peripheral awareness are presented as a fundamental
+1.  In TMI, attention and peripheral awareness are presented as a fundamental
 dichotomy.  Is experience really structured this discretely?  Can
 attention and awareness be seen to inhabit points on a continuum?
 
