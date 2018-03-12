@@ -72,6 +72,15 @@ Commentary and Questions:
 
 ### Second Interlude - The Hindrances and Problems:
 
+*  The Five Hinderances:
+
+1.  Desire
+2.  Aversion
+3.  Laziness/Lethargy
+4.  Remorse/Worry
+5.  Doubt
+
+*  The Seven Problems (and Antidotes): 
 ### Stage Two - Interrupted Attention and Overcoming Mind-Wandering:
 
 ### Stage Three - Extended Continuity of Attention and Overcoming Forgetting:
@@ -167,9 +176,9 @@ perceiving mind moments.
 
 Commentary:
 
-1.  Mind moments can be formalized as an appropriate n-tuple.
+1.  Mind moments can be mathematically formalized as an appropriate n-tuple.
 
-2.  It seems the dichotomy of stable and progressive subtle dullness can be
+2.  The dichotomy of stable and progressive subtle dullness can be
     mathematically refined and expanded.  Recall that dullness is measured by the
     density of non-perceiving moments.  The time derivative of this
     density measures the *velocity* of dullness (subtle or
