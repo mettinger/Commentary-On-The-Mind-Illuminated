@@ -270,6 +270,10 @@ awareness.
 2.  Keeping thumb/forefinger contact, place hands in lap with thumbs touching each other and backs of forefingers touching.
 3.  Investigate the perception of space as experience #1 changes to experience #2.
 
+Commentary:
+
+1.  Analogy of body scanning for fire kasina?
+
 ### Fifth Interlude - The Mind-System:
 
 *  Model source: **Lankavatara Sutra**
@@ -277,6 +281,15 @@ awareness.
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude_5.png"
 width="400" height="400">
+
+*  Five key points:
+
+1.  Consciousness is (only) an *arena* or *space* through which the unconscious sub-minds exchange information.
+2.  All new skills and actions result from the overall operation of the mind system acting to perform *executive functions*.
+3.  Contents of consciousness are constructs, fabrications, and highly preprocessed information projected by the unconscious sub-minds.
+4.  The sense of self as doer and experiencer is a fictional construct of the **narrating mind** after reification by the **discriminating mind**.
+5.  The mind-system is a dynamic self-programming system.
+6.  The experience of consciousness is the result of **shared receptivity** of unconscious sub-minds to the content passing through the conscious mind.
 
 Commentary:
 
