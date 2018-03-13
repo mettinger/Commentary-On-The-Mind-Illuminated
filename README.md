@@ -53,7 +53,7 @@ Daniel Ingram.
 	* ["Stage 4 advice - Part 2 (by Nick Grabovac)"](https://www.reddit.com/r/TheMindIlluminated/comments/7dr2kj/tips_for_stage_4_part_2/)
 	* ["TMI discussion board on Reddit"](https://www.reddit.com/r/TheMindIlluminated/)
 	* ["Culadasa YouTube channel"](https://www.youtube.com/channel/UCTnlZBjDOwI-dCH8sOta9BQ)
-	* ["Dharma Treasure Buddhist Sangha"](https://dharmatreasure.org/
+	* ["Dharma Treasure Buddhist Sangha"](https://dharmatreasure.org/)
 	
 
 
