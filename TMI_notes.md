@@ -257,8 +257,18 @@ during each meditation session.
 *  **Intention** to detect subtle dullness increases introspective
 awareness.
 
-* Body scanning technique: 
+* Body scanning technique (breath object only):
 
+1.  Shift attention from breath-at-the-nostrils to breath-at-the-abdomen.
+2.  Shift attention to other body part (e.g. foot), keeping peripheral awareness on breath-at-the-abdomen.
+3.  Search for breath-related sensations in attention.
+4.  Scan the body in this fashion for subtle breath-related sensations while maintaining awareness on breath-at-the-abdomen.
+5.  When perception noticeably increases, return attention to breath-at-the-nostrils.
+
+*  Space element exercise:
+1.  Touch thumbs and forefingers together with hands on knees.
+2.  Keeping thumb/forefinger contact, place hands in lap with thumbs touching each other and backs of forefingers touching.
+3.  Investigate the perception of space as experience #1 changes to experience #2.
 
 ### Fifth Interlude - The Mind-System:
 
