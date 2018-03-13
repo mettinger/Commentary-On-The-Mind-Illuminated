@@ -50,7 +50,17 @@ Daniel Ingram.
 5.  Outside links of interest to TMI:
 
     * ["Stage 4 advice - Part 1 (by Nick Grabovac)"](https://www.reddit.com/r/TheMindIlluminated/comments/77j5tr/tips_for_stage_4/)
-	*  ["Stage 4 advice - Part 2 (by Nick Groabovac)"](https://www.reddit.com/r/TheMindIlluminated/comments/7dr2kj/tips_for_stage_4_part_2/)
+	* ["Stage 4 advice - Part 2 (by Nick Grabovac)"](https://www.reddit.com/r/TheMindIlluminated/comments/7dr2kj/tips_for_stage_4_part_2/)
+	* ["Culadasa YouTube channel"](https://www.youtube.com/channel/UCTnlZBjDOwI-dCH8sOta9BQ)
+	
+
+
+
+
+
+
+
+
 
 
 
