@@ -93,6 +93,28 @@ Initially, count breaths.  Count at the end of the in-breath.
 
 ### Stage Two - Interrupted Attention and Overcoming Mind-Wandering:
 
+Goals: Shorten periods of mind-wandering and extend periods of sustained attention to the meditation object.
+
+Obstacles:  Mind-wandering, monkey-mind, impatience.
+
+Skills:  Reinforcing spontaneous introspective awareness by non-judgemental recognition of mind-wandering.
+
+Mastery:  Sustained attention for at least a few minutes while mind-wandering lasts only a few seconds.
+
+*  **Following** is a technique involving identifying specific events and qualities of the meditation object.
+
+*  Cultivate peripheral awareness.
+
+*  Ground in the body as an antidote to monkey-mind.
+
+*  Every practice for achieving stable attention is based on the principle of *intentionally selecting the locus of attention*.
+
+*  The elements of success:
+1.  Relax
+2.  Look for the joy
+3.  Observe (non-judgmentally)
+4.  Let it come - Let it be - Let it go.
+
 ### Stage Three - Extended Continuity of Attention and Overcoming Forgetting:
 
 ### Third Interlude - How Mindfulness Works:
