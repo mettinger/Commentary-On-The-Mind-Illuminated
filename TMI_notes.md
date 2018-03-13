@@ -117,12 +117,20 @@ Mastery:  Sustained attention for at least a few minutes while mind-wandering la
 
 ### Stage Three - Extended Continuity of Attention and Overcoming Forgetting:
 
+Goals:  Overcome forgetting and falling asleep.
+
+Obstacles:  Distractions, forgetting, mind-wandering, sleepiness.
+
+Skills:  **following**, **connecting**, **labelling**, **checking in**.
+
+Mastery:  Rarely forgetting the object or falling asleep.
+
 ### Third Interlude - How Mindfulness Works:
 
 
 ### Stage Four - Continuous Attention and Overcoming Gross Distraction and Strong Dullness:
 
-Goal: Overcome gross distraction and strong dullness.
+Goals: Overcome gross distraction and strong dullness.
 
 Obstacles: Physical discomfort, emotional discomfort, intellectual insight.
 
