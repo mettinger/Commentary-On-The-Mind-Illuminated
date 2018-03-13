@@ -47,7 +47,7 @@ Daniel Ingram.
     the fire kasina as the object of meditation in place of the breath
     within TMI framework.
 
-5.  Outside links of interest to TMI:
+5.  Outside links of interest related to _The Mind Illuminated_:
 
     * ["Stage 4 advice - Part 1 (by Nick Grabovac)"](https://www.reddit.com/r/TheMindIlluminated/comments/77j5tr/tips_for_stage_4/)
 	* ["Stage 4 advice - Part 2 (by Nick Grabovac)"](https://www.reddit.com/r/TheMindIlluminated/comments/7dr2kj/tips_for_stage_4_part_2/)
