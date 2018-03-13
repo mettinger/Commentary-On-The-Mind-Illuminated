@@ -121,9 +121,17 @@ Goals:  Overcome forgetting and falling asleep.
 
 Obstacles:  Distractions, forgetting, mind-wandering, sleepiness.
 
-Skills:  **following**, **connecting**, **labelling**, **checking in**.
+Skills:  **following**, **connecting**, **labelling**, **checking-in**.
 
 Mastery:  Rarely forgetting the object or falling asleep.
+
+*  **Connecting** is a technique of amplifying interest in the meditation object using comparisons and associations.
+
+* **Labeling** is a technique of applying a word or phrase to a distraction detected, in the present moment, by introspective awareness.
+
+*  **Checking-In** is a technique of using introspective *attention* to observe recently passed moments in the mind in an effort to detect distraction and strengthen habitual introspective awareness.
+
+*  Strong dullness medicines:  Deep breaths, tensing muscles, standing meditation, walking meditation, cold water on face.
 
 ### Third Interlude - How Mindfulness Works:
 
