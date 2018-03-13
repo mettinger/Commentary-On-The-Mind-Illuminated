@@ -262,9 +262,15 @@ awareness.
 
 ### Fifth Interlude - The Mind-System:
 
+*  Model source: **Lankavatara Sutra**
+
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude_5.png"
 width="400" height="400">
+
+Commentary:
+
+1.  It is possible that this model (and the refined version in the Seventh Interlude) could serve as inspiration for the architecture of a new kind of deep neural network.
 
 ### Stage Six - Subduing Subtle Distraction:
 
