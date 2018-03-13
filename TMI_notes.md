@@ -278,7 +278,7 @@ Commentary:
 
 *  Model source: **Lankavatara Sutra**
 
-*  This image illustrates the central premise of the mind-system model as composed of sub-minds communicating by projecting information into the common area of the conscious mind and receiving information from the same:
+*  This image from TMI illustrates the central premise of the mind-system model as composed of sub-minds communicating by projecting information into the common area of the conscious mind and receiving information from the same:
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude_5.png"
@@ -307,13 +307,19 @@ Commentary:
 
 ### Seventh Interlude - The Nature of Mind and Consciousness:
 
+*  This image from TMI illustrates the self-similar hierarchical structure of sub-minds, sub-sub-minds, etc.:
+
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_1.png"
 width="400" height="400">
 
+*  This image from TMI illustrates the collation of information from visual sub-sub-minds in the visual sub-mind's *consciousness-like* (yet unconscious) workspace before projection into the conscious mind.
+
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_2.png"
 width="400" height="400">
+
+*  This image from TMI illustrates the sensory sub-minds exchanging information via a *consciousness-like*  (yet unconscious) workspace, resulting in sensory binding before the experience becomes conscious.
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_3.png"
