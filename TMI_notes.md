@@ -135,6 +135,10 @@ Mastery:  Rarely forgetting the object or falling asleep.
 
 ### Third Interlude - How Mindfulness Works:
 
+1.  Moderating behavior
+2.  Becoming less reactive and more responsive
+3.  Reprogramming deep conditioning
+4.  Insight and the end of suffering
 
 ### Stage Four - Continuous Attention and Overcoming Gross Distraction and Strong Dullness:
 

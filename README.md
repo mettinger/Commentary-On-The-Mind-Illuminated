@@ -3,19 +3,25 @@ This repository is intended to be a summary of, guide to, and
 commentary on the book _The Mind Illuminated_ by Culadasa (John Yates,
 Ph.D.), Matthew Immergut, Ph.D. and Jeremy Graves.
 
-We also include commentary regarding integrating the framework
-outlined in _The Mind Illuminated_ and the Fire Kasina as the
-meditation object rather than the breath.
-
-All illustrations are from _The Mind Illuminated_ and copyrighted by
-the authors.
-
 The motivation for this
 repository is a deep appreciation for the capability of the detailed,
 structured path described in _The Mind Illuminated_ to facilitate fundamental
 and liberating insights.  The hope is that the reflections contained
 herein may provide clarity both to myself and others working within
 this framework.
+
+We also include commentary regarding integrating the framework
+outlined in _The Mind Illuminated_ and the Fire Kasina as the
+meditation object rather than the breath.
+
+All concepts and summary explanations outside the commentary sections
+are directly attributable to _The Mind Illuminated_ and the work of the
+authors.
+
+Commentary sections are products of the repository collaborators.
+
+All illustrations are from _The Mind Illuminated_ and are copyrighted by
+the authors.
 
 The contents of this repository are in no way to be interpreted as
 approved or endorsed by the aforementioned authors.  All errors and
