@@ -38,7 +38,7 @@ Contents:
 1. [ "The Stages of Meditation."](/pdf/LightOnMeditationHandout.pdf)  Culadasa's brief summary of the stages of 
 meditation later outlined in the book _The Mind Illuminated_.
 
-2. ["Notes on _The Mind Illuminated_  (single page)"](./TMI_notes.md).  Notes on the TMI framework.
+2. ["Summary of _The Mind Illuminated_ "](./TMI_notes.md). High level summary of the TMI framework on a single page.
 
 3. [ _The Fire Kasina_](/pdf/the-fire-kasina.pdf).  A pdf copy of the book by Shannon Stein and
 Daniel Ingram.
@@ -54,6 +54,7 @@ Daniel Ingram.
 	* ["TMI discussion board on Reddit"](https://www.reddit.com/r/TheMindIlluminated/)
 	* ["Culadasa YouTube channel"](https://www.youtube.com/channel/UCTnlZBjDOwI-dCH8sOta9BQ)
 	* ["Dharma Treasure Buddhist Sangha"](https://dharmatreasure.org/)
+	
 	
 
 
