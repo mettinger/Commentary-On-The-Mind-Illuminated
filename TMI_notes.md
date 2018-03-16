@@ -331,6 +331,14 @@ width="400" height="200">
 
 ### Stage Ten - Tranquility and Equanimity
 
+### Appendices
+
+A. Walking Meditation
+B. Analytical Meditation
+C. Loving-Kindness Meditation
+D. The Jhanas
+E.  Mindful Review
+F.  Insight and the Dark Night.
 
 
 
