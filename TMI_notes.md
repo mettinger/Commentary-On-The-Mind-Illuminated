@@ -333,12 +333,12 @@ width="400" height="200">
 
 ### Appendices
 
-A. Walking Meditation
-B. Analytical Meditation
-C. Loving-Kindness Meditation
-D. The Jhanas
-E.  Mindful Review
-F.  Insight and the Dark Night.
+* Walking Meditation
+* Analytical Meditation
+* Loving-Kindness Meditation
+* The Jhanas
+*  Mindful Review
+*  Insight and the Dark Night.
 
 
 
