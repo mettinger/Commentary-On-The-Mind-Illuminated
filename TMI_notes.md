@@ -307,7 +307,11 @@ Commentary:
 
 ### Seventh Interlude - The Nature of Mind and Consciousness:
 
-*  This image from TMI illustrates the self-similar hierarchical structure of sub-minds, sub-sub-minds, etc.:
+*  _Unification of mind_ occurs when more sub-minds cooperate more fully around a conscious intention.   Therefore mindfulness continues to increase even after dullness disappears and perceiving moments reach saturation.
+
+*  Practice during dullness is vitally important because mindfulness can increase in spite of dullness due to unification.
+
+*  We revise the mind-system model previously presented by stating that the basic structure of the mind-system is repeated at many different levels.  This image from TMI illustrates the self-similar hierarchical structure of sub-minds, sub-sub-minds, etc.:
 
 <img
 src="https://github.com/mettinger/Commentary-On-The-Mind-Illuminated/blob/master/images/interlude7_1.png"
