@@ -65,9 +65,7 @@ Initially, count breaths.  Count at the end of the in-breath.
 
 **Commentary**:
 
-1.  What would be a good transition for fire kasina?
-2.  Count up to 8 then back down. (Because 8, as a power of 2, is
-    holy! ;))
+1.  Count up to 8 then back down. (Because 8, as a power of 2, is an auspicious number! ;))
 
 ### Second Interlude - The Hindrances and Problems:
 
