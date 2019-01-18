@@ -1,8 +1,6 @@
 
-Hello Ralph
 
-
-# Commentary-On-The-Mind-Illuminatedd
+# Commentary-On-The-Mind-Illuminated
 This repository is intended to be a summary of, guide to, and
 commentary on the book _The Mind Illuminated_ by Culadasa (John Yates,
 Ph.D.), Matthew Immergut, Ph.D. and Jeremy Graves.
